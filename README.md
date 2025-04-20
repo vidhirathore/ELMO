@@ -51,7 +51,7 @@ nltk
 
 Clone the repository:
 ```bash
-git clone [<your-repo-url>](https://github.com/vidhirathore/ELMO.git)
+git clone https://github.com/vidhirathore/ELMO.git
 cd ELMO
 ```
 
