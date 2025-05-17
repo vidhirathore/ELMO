@@ -79,6 +79,3 @@ To further evaluate embedding effectiveness, we compare ELMo with traditional em
 - `confusion_matrix_skipgram.png`
 - `confusion_matrix_svd.png`
 
-
-
-To run the entire assignment, check this link out - https://iiithydresearch-my.sharepoint.com/:f:/g/personal/vidhi_rathore_research_iiit_ac_in/EuG0VrxPKWhNvUQ2-7u0c7sBBDeI7AhJEYFK9bcLvCx0yg?e=rLCtpn 
